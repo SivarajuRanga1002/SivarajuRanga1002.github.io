@@ -1,12 +1,12 @@
 {
-	"homepage": "https://smartgeek27.github.io",
+	"homepage": "https://SivarajuRanga1002.github.io",
 	"name": "rishi-portfolio",
 	"version": "1.1.0",
 	"description": "Personal portfolio template built using Reactjs",
 	"author": {
 		"name": "Rishi Dadhich",
-		"email": "rish7a@gmail.com",
-		"url": "https://github.com/smartgeek27"
+		"email": "sivarajuranga1002@gmail.com",
+		"url": "https://github.com/SivarajuRanga1002"
 	},
 	"license": "MIT",
 	"private": true,
