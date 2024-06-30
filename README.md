@@ -40,31 +40,6 @@ To install the project, follow these steps:
     npm install
     ```
 
-## Running the Project
-
-To run the project locally, use the following command:
-
-```bash
-npm start
-
-
-
-### Bash Commands Overview
-
-1. **Clone the repository**:
-    ```bash
-    git clone https://github.com/SivarajuRanga1002/SivarajuRanga1002.github.io.git
-    ```
-
-2. **Navigate to the project directory**:
-    ```bash
-    cd SivarajuRanga1002.github.io
-    ```
-
-3. **Install the dependencies**:
-    ```bash
-    npm install
-    ```
 
 4. **Run the project**:
     ```bash
