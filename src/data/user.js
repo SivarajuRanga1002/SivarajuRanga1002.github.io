@@ -1,67 +1,61 @@
 const INFO = {
 	main: {
-		title: "Rishi Dadhich",
-		name: "Rishi Dadhich",
-		email: "rish7a@gmail.com",
+		title: "Yashaswi Ranga Sivaraju",
+		name: "Yashaswi Ranga Sivaraju",
+		email: "sivarajuranga1002@gmail.com",
 		logo: "../images/logo.png",
 	},
 
 	socials: {
-		github: "https://github.com/smartgeek27",
-		linkedin: "https://www.linkedin.com/in/rishi-dadhich/",	},
+		github: "https://github.com/SivarajuRanga1002",
+		linkedin: "https://www.linkedin.com/in/yashaswirangasivaraju/",	},
  
 	homepage: {
-		name: "Rishi Dadhich ",
-		title: "Machine Learning Engineer and Data Scientist",
+		name: "Biography",
+		title: "Yashaswi Ranga Sivaraju",
 		description:
-			"Hello! I'm Rishi Dadhich, with over two years of research and industrial experience in Generative AI and Machine Learning. Currently, I serve as a Senior Engineer in Gen AI & ML at Gamma Technologies, where I focus on developing and integrating generative AI applications in softwares at a large scale. I manage the entire lifecycle of these models, ensuring accuracy and efficiency from data acquisition to deployment. \n Previously, I was a Machine Learning Engineer at Sabin, Inc., where I developed AI solutions, such as chatbots and estimation models, that streamlined business operations and enhanced data management. Beyond this, my background includes a deep passion for computer vision, tackling real-world ML challenges, exploring 3D reconstruction, image segmentation, and advanced AI model training. From collaborating with robots and mastering ML pipelines to innovations with transformers, autoencoders, and diffusion models. \n My mantra is clear: With a proactive mindset and the right tools at hand, we can craft the extraordinary. Let's transform ideas into reality!.",
-		// "As a software engineer, I strive to deliver software solutions that are efficient, scalable, and reliable. I am enthusiastic about embracing new challenges and technologies. When I'm not writing code, I enjoy keeping up with the latest advances in AI. I am skilled in working with cutting-edge tools, from databases to the cloud, to drive innovation. When I'm not working, I like to hike, game, and explore new places. I am constantly seeking new challenges to improve my skills as an individual.",
+			"Hi! I am Yashaswi Ranga, A graduate with major in Robotics and Autonomous Systems from ASU. In terms of sensing like audio, visual & light, Robots complement humans; Ml & AI adds as a topping - I am eager to contributing in this intersection. I am actively looking for full-time opportunities starting May 2024. \nCurrently, as I embarked on a journey to find a full-time, I am implementing LLM's and RAG models for its applications in Teaching Assistantships. My recent work experience being a Teaching Assistant exposed me to 6DOF Robotic Arms like UR5 & myCobot by elephant robotics and its dynamics in real-time and implementing vision, Pick & Place operations . Working on 3d object detection and 2d Lidar map generation on a Automated guided vehicle extending my past internship experience at Centillion Solutions as a robotics engineer intern where LiDAR, Camera & GPS systems applications in real-world like calibration, collection of data, Mo-Cap ground truth comparison were introduced.\nIn free time I read and think on indian mythology and SciFi/Fantasy. Do get in touch to discuss robotics, start-ups, spirituality, and plan a sudden adventurous journey",
 	},
 
 	about: {
-		title: "My Story",
-		description:"My journey into the world of artificial intelligence began as a graduate student researcher at ASU's Interactive Robotics Lab, I delved in human-robot collaboration and crafted a real-time 3D object tracking system using advanced computer vision and Intel's RGB depth camera. \n Transitioning to a machine learning research assistant role at ASU's Geometric Media Lab, I deepened my knowledge in generative models like GANs and VAEs, creating novel interpolation techniques and a CNN architecture that attracted DARPA funding. My 3D computer vision pursuits led me to an internship at Meda AI in New York, where I enhanced the Neural Radiance Field (NERF) algorithm for improved 3D reconstructions. \n Now at Sabin Lighting Inc. in Chicago as a machine learning engineer, I apply ML in industry automation, developing AI chatbots using OpenAI's retrieval-augmented generation, and devise ML-driven pricing algorithms.",
-		resume: "https://drive.google.com/file/d/1wT1lf_EWLBrx4HzA5Ybqw_bWQAMAFhXd/view?usp=drive_link",
+		title: "My Journey (Past, Present & Future)",
+		description:"My journey from a curious undergraduate to a specialized robotics professional encapsulates a dynamic evolution, driven by a passion for innovation and a deep-rooted enthusiasm for technology. Holding a Bachelor's in Electronics and Communication Engineering, I first dipped my toes into robotics by constructing devices as simple yet fascinating as a line-follower robot and a makeshift robotic arm from spoons and motors. These initial projects not only showcased at our college's Robocon fest but also paved my path towards more complex endeavors. \n Joining Kagool as a Data Analyst, I delved into augmented and virtual reality technologies, crafting UI/UX designs for AR/VR applications using Holo-Lens, MRTK, and Unity Hub. This role was my gateway into the world of data, where numbers and patterns danced around me, fueling my curiosity towards data science. Life pushed me back into my core passion—robotics—leading me to pursue a Master's in Robotics which made me realize data science intersects a lot with Robotics.\n My Master’s program was an amalgamation of theory and practical knowledge—linear algebra became the language through which I understood robotics dynamics, and deep neural networks. I explored the burgeoning field of autonomous vehicles, which led to an internship at Centillion Solutions where I gained hands-on experience with LiDARs, cameras, GPS systems, and 3D LiDAR visualization using Three.js. Teaching Assistantship under Prof. Sangram Redkar allowed me to mentor graduate students on advanced robotic systems like myCobot and UR5, making me learn PLC and SCADA systems. Today, as I research autonomous vehicles and delve into object detection algorithms and their hardware compatibilities, such as CUDA, my focus has never been clearer. \n I am eager to bring my background in data, my hands-on experience in 3D visualization, and my deep understanding of sensor technologies to the fields of industrial automation and autonomous vehicles—domains where precision and innovation intersect to recreate and understand our world.",
+		resume: "https://drive.google.com/file/d/1BCGRsmTvMALPemHmvOrov8Yc3N5o5-AU/view?usp=sharing",
 	},
 
 	projects: {
-		title: "Projects that You Might Find Interesting",
+		title: "Projects that define my expertise",
 		description:
-			"Throughout my research and industrial experience in Artificial Intelligence, I've got myself engaged in a variety of projects and research endeavors, each adding depth to my understanding and skill set. This section offers a glimpse into some of these milestones. If any align with your interests, I'd be pleased to discuss potential collaborations. If you have a project in mind, I'm open to exploring how we might bring it to fruition together.",
+			"Throughout my journey as a passionate roboticist, I delved into exploring Controls, CNN's, PLC Programming, CNC machines, Computer Vision... adding depth to my understanding and knowledge base. The project section showcases the projects that shaped my passion and experience in this vast field. If you think some projects can be improved by collaboration, I would be pleased to continue creating a change",
 		project_list: [
 			{
-				title: "OpenAI LLM-Powered Chatbot using Retrieval-Augmented Generation",
+				title: "Stereo-RCNN based 3D Object Detection for Autonomous Driving",
 				description:
-					"Developed and deployed Intelligent AI chatbot using Retrieval-Augmented Generation capabilities of OpenAI's LLM for my current company. Chatbot streamlines employee data retrieval, decodes company-specific part numbers, and proficiently answers company-related queries, enhancing internal communication efficiency.",
-				image: "https://github.com/smartgeek27/Intelligent-Industrial-AI-chatbot/blob/main/chatbot_video.gif?raw=true",
-				image_alt: "webchat-demo",
+					"Deployed and implemented Stereo-RCNN for 3D object detection by HKUST Aerial Robotics, which fully exploits stereo imagery to detect and associate objects in left and right images. Utilizing a weight-sharing ResNet-101 backbone and a modified Region Proposal Network (RPN), our system provides high precision and recall rates for 3D object localization. This approach achieves state-of-the-art performance on the KITTI benchmark, significantly enhancing autonomous driving capabilities without the need for LiDAR data .",
+				image: "https://github.com/SivarajuRanga1002/Stereo-RCNN/blob/master/doc/system.png?raw=true",
+				image_alt: "Stereo-RCNN Architecture",
 				skills: [
-					"Langchain", 
-					"Openai", 
-					"LlamaIndex",
-					"GPT", 
-					"redis",
-					"flask",
+					"cuda", 
+					"tensorflow", 
+					"python",
+					"pytorch", 
+					"Kitti",
+					"opencv",
 				],
 				linkText: "View Project",
-				link: "https://github.com/smartgeek27/Intelligent-Industrial-AI-chatbot",
+				link: "https://github.com/SivarajuRanga1002/Stereo-RCNN",
 			},
 			{
-				title: "3D Point Cloud Classification & Detection via PointNet",
+				title: "ASU Shape formation using Robotarium software",
 				description:
-					"Leveraged PointNet architecture on the Model-Net10 dataset for 3D object classification. Enhanced voxel density with Open3D preprocessing, achieving a 78% testing accuracy on a custom 3D LIDAR dataset.",
-				image: "https://github.com/nikitakaraevv/pointnet/blob/master/images/cover.gif?raw=true",
-				image_alt: "webchat-demo",
+					"The project 'Swarm of Robots Forming 'ASU' Shape' involved designing and implementing a multi-robot system using the Robotarium simulator to autonomously arrange robots into the letters 'ASU'. Utilizing Python, we developed algorithms for single integrator to unicycle dynamics conversion, barrier certificates for collision avoidance, and precise position control. The project required defining target positions, integrating custom and existing code, and dynamically replanning paths to adapt to environmental changes. Effective team coordination and technical research were crucial to overcoming challenges and ensuring the successful formation of the desired shape. This project demonstrated a comprehensive application of swarm robotics principles and advanced algorithmic techniques in a collaborative setting.",
+				image: "https://github.com/SivarajuRanga1002/-ASU-Shape_FormationControl/blob/main/289218565-9336af31-5256-4ff0-8986-6c0b6b0cd477.gif?raw=true",
+				image_alt: "ASU-Shape-Formation",
 				skills: [
-					"python",
-					"Open3d",
-					"tensorflow",
-					"keras",
-					"lidar",
-					"Trimesh",
+					"python"
 				],
 				linkText: "View Project",
-				link: "https://drive.google.com/file/d/1NCAXbVs466pXZxeUp69E2f8JhoLGSDxP/view",
+				link: "https://github.com/SivarajuRanga1002/-ASU-Shape_FormationControl",
 			},
 			{
 				title: "6D Pose Estimation using ArUco Markers with Intel RealSense Camera",
@@ -110,7 +104,7 @@ const INFO = {
 				image_alt: "siumlation-demo",
 				skills: ["matlab", "simulink","raspberrypi", "alexnet"],
 				linkText: "View Project",
-				link: "https://github.com/smartgeek27",
+				link: "https://github.com/SivarajuRanga1002",
 			},
 
 			{
@@ -137,13 +131,13 @@ const INFO = {
 		{
 			company_logo:
 				"https://media.licdn.com/dms/image/C4E0BAQFrix1WwH0KvQ/company-logo_200_200/0/1640201971362/gamma_technologies_inc_logo?e=1723680000&v=beta&t=R5fN4eOIN6MwgQRALxMX4CD8BDBsQaDdFKCJp8DvCxo",
-			company: "Gamma Technologies",
+			company: "Centillion Solutions",
 			location:"Chicago, IL",
 			roles: [
 				{
-					dept:"Neuro Applications ",
-					role: "Senior Engineer (Gen AI & ML)",
-					duration: "Apr 2024  - Present",
+					dept:"Autonomous Vehicle",
+					role: "Robotics Engineer ",
+					duration: "Apr 202",
 					description:
 						" Leading the development and integration of generative AI applications, ensuring robust and intuitive user interfaces enhancing GT Suite's software capabilities.\n  Managing the full lifecycle of LLM models from data acquisition to training, validation, and testing, implementing best practices to ensure model accuracy and efficiency.",
 				},

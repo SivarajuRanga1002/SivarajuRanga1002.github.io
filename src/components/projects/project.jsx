@@ -26,7 +26,7 @@ const Project = (props) => {
 				>
 					<div className="project-image">
 						<img
-							src={image || "images/default_project.gif"}
+							src={image || "images/abcd.gif"}
 							alt={image_alt}
 						/>
 					</div>

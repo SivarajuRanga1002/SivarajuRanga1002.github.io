@@ -51,7 +51,7 @@ const Research = () => {
 										"Cliked Github",
 										"Github"
 									);
-									window.open("https://github.com/smartgeek27");
+									window.open("https://github.com/SivarajuRanga1002");
 								}}
 							>
 								GitHub &nbsp;

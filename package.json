@@ -1,12 +1,12 @@
 {
-	"homepage": "https://sivarajuranga1002.github.io",
-	"name": "rishi-portfolio",
+	"homepage": "https://SivarajuRanga1002.github.io",
+	"name": "YashaswiRangaSivaraju-portfolio",
 	"version": "1.1.0",
 	"description": "Personal portfolio template built using Reactjs",
 	"author": {
-		"name": "Rishi Dadhich",
+		"name": "Yashaswi Ranga Sivaraju",
 		"email": "sivarajuranga1002@gmail.com",
-		"url": "https://github.com/SivarajuRanga1002/SivarajuRanga1002.github.io"
+		"url": "https://github.com/SivarajuRanga1002"
 	},
 	"license": "MIT",
 	"private": true,
@@ -41,7 +41,7 @@
 	},
 	"scripts": {
 		"predeploy": "npm run build",
-		"deploy": "gh-pages -b live-build -d build",
+		"deploy": "gh-pages -d build",
 		"start": "react-scripts start",
 		"build": "vite-node ./builders/generate-sitemap.js && react-scripts build && node ./builders/build.mjs",
 		"test": "react-scripts test",

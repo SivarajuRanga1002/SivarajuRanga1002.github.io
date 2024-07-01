@@ -1,7 +1,7 @@
 const myArticles = [
 	() => ({
-		date: "22 May 2024",
-		title: "Orthogonality and graph divergence losses promote disentanglement in generative models. ",
+		date: "9 Aug 2023",
+		title: "Orthogonality and Graph Divergence Losses for Disentanglement in Generative AI Models (Under Review)",
 		description:
 			'As a ML Research Assistant at Geometric Media Lab, I worked with generative models where we aimed to design a deep generative model capable of capturing the geometry of underlying data manifolds, aiming to enhance image generation quality and offer controlled generation. The model would dissect the latent space into distinct representations for different attribute manifolds, making it possible to understand and manipulate these attributes independently.',
 		keywords: [
@@ -17,7 +17,7 @@ const myArticles = [
 			"Hyperparameter Tuning",
 			"Image Manipulation"],
 
-		link: "https://www.frontiersin.org/articles/10.3389/fcomp.2024.1274779/full",
+		link: "https://github.com/smartgeek27/My_Research/blob/main/Orthogonality_manuscript.PDF",
 		
 		link_text: "Read Publication",
 	}),
