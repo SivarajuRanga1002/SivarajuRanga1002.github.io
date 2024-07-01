@@ -11,7 +11,7 @@ const INFO = {
 		linkedin: "https://www.linkedin.com/in/yashaswirangasivaraju/",	},
  
 	homepage: {
-		name: "Biography",
+		name: "Biograpy",
 		title: "Yashaswi Ranga Sivaraju",
 		description:
 			"Hi! I am Yashaswi Ranga, A graduate with major in Robotics and Autonomous Systems from ASU. In terms of sensing like audio, visual & light, Robots complement humans; Ml & AI adds as a topping - I am eager to contributing in this intersection. I am actively looking for full-time opportunities starting May 2024. \nCurrently, as I embarked on a journey to find a full-time, I am implementing LLM's and RAG models for its applications in Teaching Assistantships. My recent work experience being a Teaching Assistant exposed me to 6DOF Robotic Arms like UR5 & myCobot by elephant robotics and its dynamics in real-time and implementing vision, Pick & Place operations . Working on 3d object detection and 2d Lidar map generation on a Automated guided vehicle extending my past internship experience at Centillion Solutions as a robotics engineer intern where LiDAR, Camera & GPS systems applications in real-world like calibration, collection of data, Mo-Cap ground truth comparison were introduced.\nIn free time I read and think on indian mythology and SciFi/Fantasy. Do get in touch to discuss robotics, start-ups, spirituality, and plan a sudden adventurous journey",
